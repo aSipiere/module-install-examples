@@ -1,0 +1,2 @@
+Symlinks the file into the environment's bin instead of adding a path file to the environment (doesn't work on windows bc symlinks, but if you really want to use windows you can just use `flit install --pth-file`).
+https://flit.readthedocs.io/en/latest/cmdline.html#cmdoption-flit-install-s

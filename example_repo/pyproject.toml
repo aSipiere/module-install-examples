@@ -1,0 +1,3 @@
+[tool.flit.metadata]
+module = "example_module"
+author = ""
